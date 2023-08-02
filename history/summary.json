@@ -1,22 +1,22 @@
 [
   {
     "name": "Main Site",
-    "url": "https://blahaj.system",
-    "icon": "https://icons.duckduckgo.com/ip3/blahaj.system.ico",
+    "url": "https://blahaj.systems",
+    "icon": "https://icons.duckduckgo.com/ip3/blahaj.systems.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "5.43%",
-    "uptimeDay": "5.43%",
-    "uptimeWeek": "5.43%",
-    "uptimeMonth": "5.43%",
-    "uptimeYear": "5.43%",
+    "uptime": "2.91%",
+    "uptimeDay": "2.91%",
+    "uptimeWeek": "2.91%",
+    "uptimeMonth": "2.91%",
+    "uptimeYear": "2.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-02": 0
+      "2023-08-02": 5
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 374,
+    "timeDay": 374,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 115,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 127,
+    "timeDay": 127,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ci.blahaj.systems.ico",
     "slug": "team-city",
     "status": "down",
-    "uptime": "7.53%",
-    "uptimeDay": "7.53%",
-    "uptimeWeek": "7.53%",
-    "uptimeMonth": "7.53%",
-    "uptimeYear": "7.53%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 411,
     "timeDay": 411,
     "timeWeek": 411,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-08-02": 0
+      "2023-08-02": 5
     }
   },
   {
